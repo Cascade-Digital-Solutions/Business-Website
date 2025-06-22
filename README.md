@@ -4,7 +4,7 @@ A modern, responsive portfolio website for freelance developers built with vanil
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://your-username.github.io](https://your-username.github.io)
+Visit the live site: [https://Cascade-Digital-Solutions.github.io](https://Cascade-Digital-Solutions.github.io)
 
 ## ✨ Features
 
@@ -219,7 +219,7 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have questions or need help customizing the portfolio:
 
 - Create an issue in this repository
-- Contact me at [your.email@gmail.com](mailto:your.email@gmail.com)
+- Contact me at [henryjamesbusiness7@gmail.com](mailto:henryjamesbusiness7@gmail.com)
 
 ## 🎯 Next Steps
 
